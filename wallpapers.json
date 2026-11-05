@@ -1,4 +1,9 @@
 {
+  "version": 1,
+  "notification": {
+    "title": "New wallpapers added! 🔥",
+    "message": "Fresh anime boy profile pictures are waiting for you. Tap to see them."
+  },
   "wallpapers": [
     "https://raw.githubusercontent.com/MarouaneZarzar/AnimeBoyProfilePictures/main/images/1.jpg",
     "https://raw.githubusercontent.com/MarouaneZarzar/AnimeBoyProfilePictures/main/images/2.jpg",
